@@ -1,0 +1,6 @@
+﻿  player.cpp
+c:\users\tien\documents\visual studio 2017\projects\platformer base sdl\platformer base sdl\player.cpp(72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tien\documents\visual studio 2017\projects\platformer base sdl\platformer base sdl\player.cpp(78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tien\documents\visual studio 2017\projects\platformer base sdl\platformer base sdl\player.cpp(82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Platformer base SDL.vcxproj -> C:\Users\Tien\documents\visual studio 2017\Projects\Platformer base SDL\Debug\Platformer base SDL.exe
+  Platformer base SDL.vcxproj -> C:\Users\Tien\documents\visual studio 2017\Projects\Platformer base SDL\Debug\Platformer base SDL.pdb (Partial PDB)
